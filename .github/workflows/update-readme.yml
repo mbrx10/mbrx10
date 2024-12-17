@@ -14,12 +14,12 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Generate README dengan repository teratas, statistik, dll
+      # Generate README dengan GitHub Profile Stats
       - name: Generate README with GitHub Profile Stats
         uses: anmol098/git-profile-readme-generator@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          show_repositories: 5 # Jumlah repository teratas
+          show_repositories: 5 # Menampilkan 5 repository teratas
           show_starred_repositories: yes
           show_forked_repositories: no
           show_language_stats: yes
@@ -36,7 +36,7 @@ jobs:
           echo '![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mbrx10&theme=github)' >> README.md
 
       # Tambahkan Animasi Ular Kontribusi
-      - name: Add Contribution Snake Animation
+      - name: Add Contribution Snake
         run: |
           echo '![Contribution Snake](https://github.com/mbrx10/mbrx10/raw/output/github-contribution-grid-snake.svg)' >> README.md
 
