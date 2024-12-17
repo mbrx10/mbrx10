@@ -19,10 +19,16 @@
 ---
 
 ## 🛠 **Top Technologies**
-![Python](https://img.shields.io/badge/Python-3.13-blue?style=flat&logo=python&logoColor=white)
+
+#### Programming Languages
+![Python](https://img.shields.io/badge/Python-3.13.1-blue?style=flat&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-22.12-green?style=flat&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-2.47-red?style=flat&logo=git&logoColor=white)
+
+#### Tools & Frameworks
+![Node.js](https://img.shields.io/badge/Node.js-22.12.0-green?style=flat&logo=node.js&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-2.47.1-red?style=flat&logo=git&logoColor=white)  
+
+#### Web3
 ![Blockchain](https://img.shields.io/badge/Blockchain-Web3-purple?style=flat&logo=ethereum&logoColor=white)
 
 ---
@@ -30,12 +36,13 @@
 ## 🔥 **Top Languages**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbrx10&layout=compact&theme=radical&hide_border=true" width="20%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbrx10&layout=compact&theme=radical&hide_border=true" width="40%" />
 </p>
 
 ---
 
 ## 🏆 **GitHub Trophies**
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mbrx10&theme=onedark&no-frame=true&column=7" alt="GitHub Trophy">
 </p>
@@ -43,15 +50,17 @@
 ---
 
 ## 🚀 **Current Projects**
+
 | **Project Name**        | **Description**                                     | **Status**  |
 |--------------------------|---------------------------------------------------|------------|
-| 🛠 **Repo-Automation**   | Automates Web3-related tasks for airdrops          | 🚧 In Progress |
-| 🔗 **Blockchain-Tools**  | Scripts to interact with Web3 APIs and smart contracts | ✅ Complete |
-| ⚡ **GitHub-Actions**    | Workflow automation for CI/CD pipelines            | 🚀 Ongoing  |
+| 🛠 **Repo-Automation**   | Automates Web3-related tasks for airdrops          | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-orange) |
+| 🔗 **Blockchain-Tools**  | Scripts to interact with Web3 APIs and smart contracts | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
+| ⚡ **GitHub-Actions**    | Workflow automation for CI/CD pipelines            | ![Ongoing](https://img.shields.io/badge/Status-Ongoing-yellow) |
 
 ---
 
 ## 🎨 **Dynamic Widgets**
+
 - **Activity Graph**  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mbrx10&theme=dracula&hide_border=true" alt="GitHub Activity Graph">
@@ -60,12 +69,10 @@
 ---
 
 ## 🎯 **Let's Connect**
+
 > *Feel free to collaborate on projects or share ideas!*  
 
-<!-- You can uncomment these when you're ready -->
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Website-brightgreen?style=flat)](https://yourwebsite.com) -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourname) -->
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/yourhandle) -->
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/cucusabeni?link=https%3A%2F%2Fx.com%2Fcucusabeni)
 
 ---
 
