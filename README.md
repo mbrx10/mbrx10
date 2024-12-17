@@ -20,9 +20,14 @@
 
 ## 🛠 **Top Technologies**
 
-#### Programming Languages                                                                                     | #### Tools & Frameworks                                                                                  | #### Web3
-![Python](https://img.shields.io/badge/Python-3.13.1-blue?style=flat&logo=python&logoColor=white)              | ![Node.js](https://img.shields.io/badge/Node.js-22.12.0-green?style=flat&logo=node.js&logoColor=white)   | ![Blockchain](https://img.shields.io/badge/Blockchain-Web3-purple?style=flat&logo=ethereum&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript&logoColor=black)   | ![Git](https://img.shields.io/badge/Git-2.47.1-red?style=flat&logo=git&logoColor=white)                  |
+#### Programming Languages
+![Python](https://img.shields.io/badge/Python-3.13.1-blue?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript&logoColor=black)
+#### Tools & Frameworks
+![Node.js](https://img.shields.io/badge/Node.js-22.12.0-green?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2.47.1-red?style=flat&logo=git&logoColor=white)
+#### Web3
+![Blockchain](https://img.shields.io/badge/Blockchain-Web3-purple?style=flat&logo=ethereum&logoColor=white)
 
 ---
 
