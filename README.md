@@ -1,36 +1,78 @@
-# Hi there, I'm [mbrx10](https://github.com/mbrx10) 👋
+# 🌟 Hi there! I'm **mbrx10** 👋  
 
-Welcome to my GitHub profile! I'm passionate about programming, technology, and continuous learning. Feel free to explore my repositories and projects.
+### 🚀 **Web3 Enthusiast | Airdrop Hunter | Automation Geek**
 
-## 🚀 About Me
-- 🔭 I’m currently working on [my personal project](https://github.com/mbrx10)  
-- 🌱 I’m currently learning Python, JavaScript, and AI development
-- 👯 I’m looking to collaborate on open-source projects
-- 💬 Ask me about programming, web development, and more
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 🛠 **Focus**: Web3 automation, airdrop tools, and blockchain-related scripts.  
+- 📚 **Learning**: Smart contracts and DeFi projects.  
+- 🎯 **Goal**: Simplify Web3 workflows with automation.  
+- 🌍 **Community**: Active in blockchain and Web3 ecosystems.
 
-## 🛠️ Technologies & Tools
-- **Languages**: Python, JavaScript, Java, HTML, CSS
-- **Frameworks**: Flask, React, Node.js
-- **Database**: MySQL, MongoDB
-- **Tools**: Git, GitHub, VS Code, Docker, Kubernetes
+---
 
-## 📈 GitHub Stats
+## 📈 **GitHub Stats**
 
-![mbrx10's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbrx10&show_icons=true&hide_title=true&count_private=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mbrx10&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbrx10&theme=radical&hide_border=true" width="48%" alt="Streak Stats">
+</p>
 
-## 🏆 Top Repositories
+---
 
-Here are some of my most popular repositories:
+## 🛠 **Top Technologies**
+![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-14.17-green?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2.30-red?style=flat&logo=git&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-Web3-purple?style=flat&logo=ethereum&logoColor=white)
 
-- **[Repository 1](https://github.com/mbrx10/repository1)**: Description of repository 1
-- **[Repository 2](https://github.com/mbrx10/repository2)**: Description of repository 2
-- **[Repository 3](https://github.com/mbrx10/repository3)**: Description of repository 3
+---
 
-## 🔥 GitHub Activity Graph
+## 🔥 **Top Languages**
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mbrx10&theme=github)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbrx10&layout=compact&theme=radical&hide_border=true" width="40%">
+</p>
 
-## 🌱 Contribution Snake
+---
 
-![Contribution Snake](https://github.com/mbrx10/mbrx10/raw/output/github-contribution-grid-snake.svg)
+## 🏆 **GitHub Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mbrx10&theme=onedark&no-frame=true&column=7" alt="GitHub Trophy">
+</p>
+
+---
+
+## 🚀 **Current Projects**
+| **Project Name**        | **Description**                                     | **Status**  |
+|--------------------------|---------------------------------------------------|------------|
+| 🛠 **Repo-Automation**   | Automates Web3-related tasks for airdrops          | 🚧 In Progress |
+| 🔗 **Blockchain-Tools**  | Scripts to interact with Web3 APIs and smart contracts | ✅ Complete |
+| ⚡ **GitHub-Actions**    | Workflow automation for CI/CD pipelines            | 🚀 Ongoing  |
+
+---
+
+## 🎨 **Dynamic Widgets**
+- **Activity Graph**  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mbrx10&theme=dracula&hide_border=true" alt="GitHub Activity Graph">
+</p>
+
+---
+
+## 🎯 **Let's Connect**
+> *Feel free to collaborate on projects or share ideas!*  
+
+<!-- You can uncomment these when you're ready -->
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Website-brightgreen?style=flat)](https://yourwebsite.com) -->
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourname) -->
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/yourhandle) -->
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%" alt="Coding GIF">
+</p>
+
+<p align="center">
+  🚀 *"Keep building, keep automating!"* 🚀  
+</p>
