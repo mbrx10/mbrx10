@@ -59,21 +59,11 @@
 
 ---
 
-## 🎨 **Dynamic Widgets**
-
-- **Activity Graph**  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mbrx10&theme=dracula&hide_border=true" alt="GitHub Activity Graph">
-</p>
-
----
-
 ## 🎯 **Let's Connect**
 
 > *Feel free to collaborate on projects or share ideas!*  
 
-https://img.shields.io/twitter/follow/cucusabeni?link=https%3A%2F%2Fx.com%2Fcucusabeni
-
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fcucusabeni)
 
 ---
 
