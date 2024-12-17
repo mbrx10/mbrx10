@@ -1,4 +1,4 @@
-# 🌟 Hi there! I'm **mbrx10** 👋  
+# 🌟 Hi there! I'm **Cucu Sabeni** 👋  
 
 ### 🚀 **Web3 Enthusiast | Airdrop Hunter | Automation Geek**
 
@@ -72,7 +72,8 @@
 
 > *Feel free to collaborate on projects or share ideas!*  
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/cucusabeni?link=https%3A%2F%2Fx.com%2Fcucusabeni)
+https://img.shields.io/twitter/follow/cucusabeni?link=https%3A%2F%2Fx.com%2Fcucusabeni
+
 
 ---
 
