@@ -19,10 +19,10 @@
 ---
 
 ## 🛠 **Top Technologies**
-![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.13-blue?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-14.17-green?style=flat&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-2.30-red?style=flat&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-22.12-green?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2.47-red?style=flat&logo=git&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-Web3-purple?style=flat&logo=ethereum&logoColor=white)
 
 ---
@@ -30,7 +30,7 @@
 ## 🔥 **Top Languages**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbrx10&layout=compact&theme=radical&hide_border=true" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbrx10&layout=compact&theme=radical&hide_border=true" width="20%">
 </p>
 
 ---
