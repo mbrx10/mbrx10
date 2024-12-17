@@ -63,7 +63,7 @@
 
 > *Feel free to collaborate on projects or share ideas!*  
 
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fcucusabeni)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/cucusabeni?link=https%3A%2F%2Fx.com%2Fcucusabeni)
 
 ---
 
