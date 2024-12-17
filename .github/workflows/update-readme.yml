@@ -1,0 +1,50 @@
+name: Update GitHub Profile README
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Jalankan setiap hari pada pukul 00:00 UTC
+  workflow_dispatch: # Menjalankan secara manual
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Mengambil kode repository
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Generate README dengan repository teratas, statistik, dll
+      - name: Generate README with GitHub Profile Stats
+        uses: anmol098/git-profile-readme-generator@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          show_repositories: 5 # Jumlah repository teratas
+          show_starred_repositories: yes
+          show_forked_repositories: no
+          show_language_stats: yes
+          show_overall_stats: yes
+          show_lines_of_code: yes
+          show_loc_chart: yes
+          show_commit_stats: yes
+          show_profile_views: yes
+          output_file: README.md
+
+      # Tambahkan Grafik Aktivitas
+      - name: Add Activity Graph
+        run: |
+          echo '![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mbrx10&theme=github)' >> README.md
+
+      # Tambahkan Animasi Ular Kontribusi
+      - name: Add Contribution Snake Animation
+        run: |
+          echo '![Contribution Snake](https://github.com/mbrx10/mbrx10/raw/output/github-contribution-grid-snake.svg)' >> README.md
+
+      # Commit dan Push jika ada perubahan
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Automated update of GitHub Profile README" || echo "No changes to commit"
+          git push
