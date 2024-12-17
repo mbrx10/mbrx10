@@ -47,28 +47,12 @@
 
 ---
 
-## 🚀 **Current Projects**
-
-| **Project Name**        | **Description**                                     | **Status**  |
-|--------------------------|---------------------------------------------------|------------|
-| 🛠 **Repo-Automation**   | Automates Web3-related tasks for airdrops          | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-orange) |
-| 🔗 **Blockchain-Tools**  | Scripts to interact with Web3 APIs and smart contracts | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
-| ⚡ **GitHub-Actions**    | Workflow automation for CI/CD pipelines            | ![Ongoing](https://img.shields.io/badge/Status-Ongoing-yellow) |
-
----
-
 ## 🎯 **Let's Connect**
-
-> *Feel free to collaborate on projects or share ideas!*  
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/cucusabeni?link=https%3A%2F%2Fx.com%2Fcucusabeni)
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%" alt="Coding GIF">
-</p>
-
-<p align="center">
   🚀 *"Keep building, keep automating!"* 🚀  
-</p>
+
+---
