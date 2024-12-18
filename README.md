@@ -39,18 +39,11 @@
 
 ---
 
-## 🏆 **GitHub Trophies**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mbrx10&theme=onedark&no-frame=true&column=7" alt="GitHub Trophy">
-</p>
-
----
-
 ## 🎯 **Let's Connect**
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/cucusabeni?link=https%3A%2F%2Fx.com%2Fcucusabeni)
-
+<p align="left">
+  <a href="https://x.com/cucusabeni" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=flat&logo=X&logoColor=white" alt="Twitter"/></a>
+</p>
 ---
 
   🚀 *"Keep building, keep automating!"* 🚀  
