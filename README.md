@@ -39,13 +39,6 @@
 
 ---
 
-## 🎯 **Let's Connect**
-
-<p align="left">
-  <a href="https://x.com/cucusabeni" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=flat&logo=X&logoColor=white" alt="Twitter"/></a>
-</p>
----
-
   🚀 *"Keep building, keep automating!"* 🚀  
 
 ---
