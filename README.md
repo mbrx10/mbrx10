@@ -30,7 +30,12 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white) 
+![Cursor IDE](https://img.shields.io/badge/Cursor%20IDE-2A2A72?style=flat&logo=visualstudiocode&logoColor=white) 
+![ChatGPT](https://img.shields.io/badge/ChatGPT-1A1D4D?style=flat&logo=openai&logoColor=white) 
+![Anthropic](https://img.shields.io/badge/Anthropic-0052CC?style=flat&logoColor=white) 
+![Deepseek](https://img.shields.io/badge/Deepseek-551A8B?style=flat&logoColor=white) 
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-1E7F66?style=flat&logo=github&logoColor=white)
 
 ### Web3 Technologies
 ![Blockchain](https://img.shields.io/badge/Blockchain-3C3C3D?style=flat&logo=ethereum&logoColor=white) 
