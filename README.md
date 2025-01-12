@@ -36,8 +36,8 @@
 ![Anthropic](https://img.shields.io/badge/Anthropic-0052CC?style=flat&logo=anthropic&logoColor=white) 
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-551A8B?style=flat&logo=deepseek&logoColor=white) 
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-1E7F66?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Oh My Zsh](https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
+![Oh My Zsh](https://img.shields.io/badge/oh_my_zsh-1A2C34?style=flat&logo=ohmyzsh&logoColor=white)
 
 ### Web3 Technologies
 ![Blockchain](https://img.shields.io/badge/Blockchain-3C3C3D?style=flat&logo=ethereum&logoColor=white) 
@@ -46,9 +46,9 @@
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-764ABC?style=flat&logo=javascript&logoColor=white)
 
 ### OS Systems
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
 ---
 
