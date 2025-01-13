@@ -5,11 +5,11 @@
 - 🛠 **Focus**: Web3 automation, airdrop tools, and blockchain-related scripts.  
 - 📚 **Learning**: Smart contracts and DeFi projects.  
 - 🎯 **Goal**: Simplify Web3 workflows with automation.  
-- 🌍 **Community**: Active in blockchain and Web3 ecosystems.  
+- 🌍 **Community**: Active in blockchain and Web3 ecosystems.
 
 ---
 
-## 📈 **GitHub Stats**
+## 📈 **GitHub Stats** ![Profile](https://komarev.com/ghpvc/?username=mbrx10&style=flat&color=blue)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mbrx10&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
