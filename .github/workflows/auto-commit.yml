@@ -32,13 +32,6 @@ jobs:
           echo "Updated on $current_time" > TIMESTAMP.txt
           cat TIMESTAMP.txt # Debug: Tampilkan isi file
 
-      - name: Refresh GitHub Stats in README
-        run: |
-          # Tambahkan timestamp unik ke URL gambar statistik
-          current_time=$(date +%s)
-          sed -i 's|\(https://github-readme-stats\.vercel\.app/api[^"]*\)|\1\&cache_bust='"$current_time"'|g' README.md
-          sed -i 's|\(https://github-readme-streak-stats\.herokuapp\.com[^"]*\)|\1\&cache_bust='"$current_time"'|g' README.md
-
       - name: Setup Git Configuration
         run: |
           git config user.email "mbrx10@users.noreply.github.com"
@@ -52,7 +45,7 @@ jobs:
           commit_messages=("Update: ⏰" "Refresh: 🔄" "Renew: 🌟" "Revise: 📝" "Amend: 🛠" "Adjust: 🔧" "Change: 📈" "Modify: 🖊" "Transform: 🌀" "Revamp: 🌈")
           random_msg=${commit_messages[$RANDOM % ${#commit_messages[@]}]}
 
-          git add TIMESTAMP.txt README.md
+          git add TIMESTAMP.txt
           git commit -m "$random_msg - $current_time" || echo "No changes to commit."
 
       - name: Pull Latest Changes with Rebase
