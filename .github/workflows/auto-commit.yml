@@ -2,7 +2,7 @@ name: Automated Commit
 
 on:
   push:
-    branches: [main] # Ensures the workflow triggers on pushes to master
+    branches: [main] # Ensures the workflow triggers on pushes to main
 
   schedule:
     - cron: '0 */12 * * *' # Executes every 12 hours
@@ -33,8 +33,8 @@ jobs:
 
       - name: Setup Git Configuration
         run: |
-          git config user.email "mbrx10@users.noreply.github.com"
-          git config user.name "mbrx10"
+          git config user.email "rxmxdhxni@gmail.com"
+          git config user.name "dante4rt"
 
       - name: Prepare Commit
         run: |
@@ -43,6 +43,9 @@ jobs:
 
           git add TIMESTAMP.txt
           git commit -m "$random_msg - $current_time" || echo "No changes to commit."
+
+      - name: Pull Latest Changes
+        run: git pull origin main --rebase
 
       - name: GitHub Push
         uses: ad-m/github-push-action@v0.6.0
