@@ -11,16 +11,20 @@
 
 ## 📈 **GitHub Stats** ![Profile](https://komarev.com/ghpvc/?username=mbrx10&style=flat&color=blue)
 
-<div align="center">
-  <div style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 20px;">
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-      <img src="https://github-readme-stats.vercel.app/api?username=mbrx10&show_icons=true&theme=dark#gh-dark-mode-only" alt="GitHub Stats" style="max-width: 49%; height: auto;" />
-    </a>
-    <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats-zeta-brown-80.vercel.app?user=mbrx10&theme=gotham&border_radius=7" alt="GitHub Streak" style="max-width: 49%; height: auto;" />
-    </a>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api?username=mbrx10&show_icons=true&theme=dark#gh-dark-mode-only" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats-zeta-brown-80.vercel.app?user=mbrx10&theme=gotham&border_radius=7" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
