@@ -44,7 +44,7 @@ jobs:
           git add TIMESTAMP.txt
           git commit -m "$random_msg - $current_time" || echo "No changes to commit."
 
-      - name: Pull Latest Changes
+      - name: Pull Latest Changes with Rebase
         run: git pull origin main --rebase
 
       - name: GitHub Push
@@ -52,3 +52,4 @@ jobs:
         with:
           directory: '.'
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true # Add this line to force push if necessary
