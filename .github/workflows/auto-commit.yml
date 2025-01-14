@@ -32,12 +32,12 @@ jobs:
           echo "Updated on $current_time" > TIMESTAMP.txt
           cat TIMESTAMP.txt # Debug: Tampilkan isi file
 
-      - name: Update GitHub Stats in README
+      - name: Refresh GitHub Stats in README
         run: |
           # Tambahkan timestamp unik ke URL gambar statistik
           current_time=$(date +%s)
-          sed -i 's|https://github-readme-stats\.vercel\.app/api.*|https://github-readme-stats.vercel.app/api?username=mbrx10\&show_icons=true\&theme=radical\&hide_border=true\&cache_bust='"$current_time"'|g' README.md
-          sed -i 's|https://github-readme-streak-stats\.herokuapp\.com.*|https://github-readme-streak-stats.herokuapp.com/?user=mbrx10\&theme=radical\&hide_border=true\&cache_bust='"$current_time"'|g' README.md
+          sed -i 's|\(https://github-readme-stats\.vercel\.app/api[^"]*\)|\1\&cache_bust='"$current_time"'|g' README.md
+          sed -i 's|\(https://github-readme-streak-stats\.herokuapp\.com[^"]*\)|\1\&cache_bust='"$current_time"'|g' README.md
 
       - name: Setup Git Configuration
         run: |
