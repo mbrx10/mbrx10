@@ -30,11 +30,15 @@ jobs:
         run: |
           current_time=$(date '+%Y-%m-%d %H:%M:%S')
           echo "Updated on $current_time" > TIMESTAMP.txt
+          cat TIMESTAMP.txt # Debug: Tampilkan isi file
 
       - name: Setup Git Configuration
         run: |
           git config user.email "mbrx10@users.noreply.github.com"
           git config user.name "mbrx10"
+
+      - name: Check Git Status
+        run: git status # Debug: Tampilkan status Git
 
       - name: Prepare Commit
         run: |
@@ -52,4 +56,4 @@ jobs:
         with:
           directory: '.'
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          force: true # Opsional: tambahkan ini untuk force push jika diperlukan
+          branch: main # Pastikan push ke branch main
