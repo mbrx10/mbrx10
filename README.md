@@ -11,8 +11,16 @@
 
 ## 📈 **GitHub Stats** ![Profile](https://komarev.com/ghpvc/?username=mbrx10&style=flat&color=blue)
 
-| [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mbrx10&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) | [![GitHub Streak](https://github-readme-streak-stats-zeta-brown-80.vercel.app?user=mbrx10&theme=gotham&border_radius=7&card_width=490)](https://git.io/streak-stats) |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=mbrx10&show_icons=true&theme=dark#gh-dark-mode-only" alt="GitHub Stats" style="height: 200px;"/>
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-zeta-brown-80.vercel.app?user=mbrx10&theme=gotham&border_radius=7" alt="GitHub Streak" style="height: 200px;"/>
+  </a>
+</div>
+
+
 
 ---
 
@@ -22,7 +30,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 
 ### Tools & Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) 
@@ -40,8 +47,6 @@
 ### Web3 Technologies
 ![Blockchain](https://img.shields.io/badge/Blockchain-3C3C3D?style=flat&logo=ethereum&logoColor=white) 
 ![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=flat&logo=metamask&logoColor=white) 
-![Hardhat](https://img.shields.io/badge/Hardhat-F3BA2F?style=flat&logo=ethereum&logoColor=white) 
-![Ethers.js](https://img.shields.io/badge/Ethers.js-764ABC?style=flat&logo=javascript&logoColor=white)
 
 ### OS Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
