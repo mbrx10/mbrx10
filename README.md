@@ -12,8 +12,8 @@
 ## 📈 **GitHub Stats** ![Profile](https://komarev.com/ghpvc/?username=mbrx10&style=flat&color=blue)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mbrx10&show_icons=true&theme=radical&hide_border=true
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbrx10&theme=radical&hide_border=true
+  <img src="https://github-readme-stats.vercel.app/api?username=mbrx10&show_icons=true&theme=radical&hide_border=true&cache_bust=1736874741
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbrx10&theme=radical&hide_border=true&cache_bust=1736874741
 </p>
 
 ---
