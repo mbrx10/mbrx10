@@ -11,8 +11,8 @@
 
 ## 📈 **GitHub Stats** ![Profile](https://komarev.com/ghpvc/?username=mbrx10&style=flat&color=blue)
 
-| [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mbrx10&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) | [![GitHub Streak](https://github-readme-streak-stats-zeta-brown-80.vercel.app?user=mbrx10&theme=gotham&border_radius=7&card_width=490)](https://git.io/streak-stats) |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=mbrx10&show_icons=true&theme=dark#gh-dark-mode-only" alt="GitHub stats-Dark" style="display:inline-block; margin-right:10px;"></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-zeta-brown-80.vercel.app?user=mbrx10&theme=gotham&border_radius=7&card_width=490" alt="GitHub Streak" style="display:inline-block;"></a>
 
 ---
 
