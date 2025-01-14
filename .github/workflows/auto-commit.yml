@@ -1,0 +1,36 @@
+name: Auto Commit Daily
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Setiap hari pada tengah malam UTC
+  workflow_dispatch:  # Memungkinkan Anda menjalankan workflow secara manual
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Git
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+      - name: Update README
+        run: |
+          # Tambahkan baris kosong atau perubahan kecil ke README.md
+          echo " " >> README.md
+          echo "Last auto-commit: $(date)" >> README.md
+
+      - name: Refresh GitHub Stats
+        run: |
+          curl -s https://github-readme-stats.vercel.app/api?username=mbrx10 > /dev/null
+          curl -s https://github-readme-streak-stats.herokuapp.com/?user=mbrx10 > /dev/null
+
+      - name: Commit and push changes
+        run: |
+          git add .
+          git commit -m "Auto commit on $(date)"
+          git push
