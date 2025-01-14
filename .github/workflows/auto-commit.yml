@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # Menggunakan token otomatis dari GitHub
 
       - name: Set up Git
         run: |
@@ -33,4 +35,4 @@ jobs:
         run: |
           git add .
           git commit -m "Auto commit on $(date)"
-          git push
+          git push origin HEAD:main  # Pastikan branch yang benar (main/master)
